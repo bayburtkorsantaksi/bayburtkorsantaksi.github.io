@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bayburt Korsan Taksi | Erzurum, Trabzon Havalimanı Yolu</title>
+  <link href="https://bayburtkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://bayburtkorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://bayburtkorsantaksi.github.io/</id>
+  <updated>2026-11-18T21:40:31.243Z</updated>
+  <author><name>Bayburt Korsan Taksi</name></author>
+  <entry>
+    <title>Bayburt Korsan Taksi | Erzurum, Trabzon Havalimanı Yolu</title>
+    <link href="https://bayburtkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://bayburtkorsantaksi.github.io/</id>
+    <updated>2026-11-18T21:40:31.243Z</updated>
+    <summary>Bayburt korsan taksi hattı: Erzurum Havalimanı merkezden 117 km, Aydıntepe yeraltı şehri, Baksı Müzesi, Bayburt Kalesi ve Demirözü yolu. Fiyat baştan.</summary>
+  </entry>
+</feed>
